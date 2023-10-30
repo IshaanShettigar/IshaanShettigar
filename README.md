@@ -2,8 +2,6 @@
 
 👋 Hello! I'm Ishaan Shettigar, I'm currently in my final year studying CSE at PES University, Bangalore.
 
-![Profile Banner](link-to-your-banner-image)
-
 ## About Me
 
 - 🔭 I'm currently working on a computer vision project that involves detecting osteoporosis and osteoarthritis from knee X-ray images as well as a project that converts natural language queries into valid SQL queries using generative AI.
