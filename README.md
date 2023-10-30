@@ -1,6 +1,9 @@
 # Ishaan Shettigar
 
-👋 Hello! I'm Ishaan Shettigar, I'm currently in my final year studying CSE at PES University, Bangalore.
+👋 Hello! I'm Ishaan Shettigar, I'm currently in my final year studying CSE at PES University, Bangalore. 
+
+- 📫 You can reach me at  ishaanshettigar@gmail.com
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishaan-shettigar-3673a821b/)
 
 ## About Me
 
